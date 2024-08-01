@@ -1,2 +1,1 @@
-Coffee_Shop_Website
-This is Online Coffee Shop Website
+This design is made by using HTML,CSS,JavaScript.
